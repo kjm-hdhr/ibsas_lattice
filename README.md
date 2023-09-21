@@ -12,7 +12,7 @@ packing_agg.h and packing_agg.c include functions
 pack and unpack keys and a signature into/from binary array 
 
 compile
-1: prepare source codes in Crystal-dilithium.
+1: prepare source codes from Crystal-dilithium.
 These are 
 sign.c rounding.c reduce.c randombytes.c poly.c polyvec.c packing.c fips202.c ntt.c symmetric-shake.c
 
