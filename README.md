@@ -1,5 +1,7 @@
 # ibsas_lattice
 
+ibsas_lattice consists of 4 algorithms setup, key derivation, signing, verification.
+
 We implemented ID base lattice aggregate signature by using Crystal-dilithium.
 
 matrix.h and matrix.c
